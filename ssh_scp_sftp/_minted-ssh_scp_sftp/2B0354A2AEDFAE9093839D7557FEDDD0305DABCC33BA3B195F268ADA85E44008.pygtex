@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+scp \PYGZhy{}P \PYG{l+m}{2230} /home/operador/prueba.sh fnavarro@navira.cidie.ucc.edu.ar:/home/fnavarro
+scp \PYGZhy{}P \PYG{l+m}{2230} \PYG{n+nv}{\PYGZdl{}HOME}/prueba.sh fnavarro@navira.cidie.ucc.edu.ar:/home/fnavarro
+scp \PYGZhy{}P \PYG{l+m}{2230} \PYGZti{}/prueba.sh fnavarro@navira.cidie.ucc.edu.ar:/home/fnavarro
+scp \PYGZhy{}P \PYG{l+m}{2230} prueba.sh fnavarro@navira.cidie.ucc.edu.ar:/home/fnavarro
+\end{Verbatim}
