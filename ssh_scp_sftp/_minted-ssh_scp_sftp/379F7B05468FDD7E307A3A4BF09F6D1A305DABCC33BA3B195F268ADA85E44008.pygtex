@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+scp \PYGZhy{}P \PYG{l+m}{2230} \PYGZhy{}r Documentos fnavarro@navira.cidie.ucc.edu.ar:/home/fnavarro
+scp \PYGZhy{}P \PYG{l+m}{2230} \PYGZhy{}r fnavarro@navira.cidie.ucc.edu.ar:/home/fnavarro/Resultados \PYG{n+nv}{\PYGZdl{}HOME}
+\end{Verbatim}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.20)  28 DEC 2018 14:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.20)  28 DEC 2018 15:34
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -637,9 +637,54 @@ Overfull \hbox (7.66504pt too wide) detected at line 2
 <./ssh_scp_sftp_imgs/StoL.png, id=16, 1179.40625pt x 64.24pt>
 File: ./ssh_scp_sftp_imgs/StoL.png Graphic file (type png)
 <use ./ssh_scp_sftp_imgs/StoL.png>
-Package pdftex.def Info: ./ssh_scp_sftp_imgs/StoL.png  used on input line 83.
+Package pdftex.def Info: ./ssh_scp_sftp_imgs/StoL.png  used on input line 84.
 (pdftex.def)             Requested size: 452.96796pt x 24.67218pt.
- [2 <./ssh_scp_sftp_imgs/samescp.png> <./ssh_scp_sftp_imgs/LtoS.png> <./ssh_scp_sftp_imgs/LtoS_A.png>] [3 <./ssh_scp_sftp_imgs/StoL.png>] (./ssh_scp_sftp.aux
+\openout3 = `ssh_scp_sftp.pyg'.
+
+ (./_minted-ssh_scp_sftp/F6625C5668817B7D8061EF91FA0F20C0305DABCC33BA3B195F268ADA85E44008.pygtex
+Overfull \hbox (7.66504pt too wide) detected at line 2
+\T1/lmtt/m/n/10.95 $[]
+ []
+
+) [2 <./ssh_scp_sftp_imgs/samescp.png> <./ssh_scp_sftp_imgs/LtoS.png> <./ssh_scp_sftp_imgs/LtoS_A.png> <./ssh_scp_sftp_imgs/StoL.png>]
+\openout3 = `ssh_scp_sftp.pyg'.
+
+ (./_minted-ssh_scp_sftp/379F7B05468FDD7E307A3A4BF09F6D1A305DABCC33BA3B195F268ADA85E44008.pygtex
+Overfull \hbox (7.66504pt too wide) detected at line 2
+\T1/lmtt/m/n/10.95 $[]
+ []
+
+
+Overfull \hbox (7.66504pt too wide) detected at line 3
+\T1/lmtt/m/n/10.95 $[]
+ []
+
+)
+\openout3 = `ssh_scp_sftp.pyg'.
+
+ (./_minted-ssh_scp_sftp/8CBBA42E24C2FB5C05BA050111F5260F305DABCC33BA3B195F268ADA85E44008.pygtex
+Overfull \hbox (7.66504pt too wide) detected at line 2
+\T1/lmtt/m/n/10.95 $[]
+ []
+
+)
+<./ssh_scp_sftp_imgs/sftp_1.png, id=20, 986.68625pt x 133.49875pt>
+File: ./ssh_scp_sftp_imgs/sftp_1.png Graphic file (type png)
+<use ./ssh_scp_sftp_imgs/sftp_1.png>
+Package pdftex.def Info: ./ssh_scp_sftp_imgs/sftp_1.png  used on input line 139.
+(pdftex.def)             Requested size: 452.96796pt x 61.28793pt.
+ [3]
+<./ssh_scp_sftp_imgs/sftp_2.png, id=24, 820.06375pt x 253.94875pt>
+File: ./ssh_scp_sftp_imgs/sftp_2.png Graphic file (type png)
+<use ./ssh_scp_sftp_imgs/sftp_2.png>
+Package pdftex.def Info: ./ssh_scp_sftp_imgs/sftp_2.png  used on input line 146.
+(pdftex.def)             Requested size: 452.96796pt x 140.27284pt.
+<./ssh_scp_sftp_imgs/sftp_3.png, id=25, 747.79375pt x 121.45375pt>
+File: ./ssh_scp_sftp_imgs/sftp_3.png Graphic file (type png)
+<use ./ssh_scp_sftp_imgs/sftp_3.png>
+Package pdftex.def Info: ./ssh_scp_sftp_imgs/sftp_3.png  used on input line 154.
+(pdftex.def)             Requested size: 452.96796pt x 73.56961pt.
+ [4 <./ssh_scp_sftp_imgs/sftp_1.png> <./ssh_scp_sftp_imgs/sftp_2.png> <./ssh_scp_sftp_imgs/sftp_3.png>] (./ssh_scp_sftp.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -647,18 +692,18 @@ runsystem(rm ssh_scp_sftp.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 8890 strings out of 492639
- 155556 string characters out of 6135496
- 365922 words of memory out of 5000000
- 12602 multiletter control sequences out of 15000+600000
+ 8925 strings out of 492639
+ 157366 string characters out of 6135496
+ 366165 words of memory out of 5000000
+ 12625 multiletter control sequences out of 15000+600000
  50641 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,9n,51p,9091b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on ssh_scp_sftp.pdf (3 pages, 190483 bytes).
+Output written on ssh_scp_sftp.pdf (4 pages, 268671 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

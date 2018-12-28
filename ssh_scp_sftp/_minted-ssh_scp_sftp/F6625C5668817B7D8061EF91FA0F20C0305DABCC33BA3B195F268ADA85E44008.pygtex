@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+scp user1@host1:/home/user1/foo1.txt user2@host2:/home/user2/foo2.txt
+\end{Verbatim}
