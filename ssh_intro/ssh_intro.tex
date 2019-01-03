@@ -27,10 +27,10 @@
 \section{SSH - Introducci'on}
 SSH o Secure Shell, es un protocolo de administraci'on para acceder de forma remota a un servidor privado, el acceso se grarantiza mediante el uso de una clave p'ublica y una clave privada mediante un cifrado criptogr'afico asim'etrico tambien llamado criptograf'ia de clave p'ublica o criptograf'ia de dos claves. El m'etodo consiste en crear un par de llaves, que mediante los m'etodos cript'ograficos se garantiza que esa pareja de claves s'olo se puede generar una vez, de modo que se puede asumir que no es posible que dos personas hayan obtenido casualmente la misma pareja de claves.
 
-La clave p'ublica se puede entregar a cualquier persona y es la que permanece en el servidor, la otra clave es la clave privada y el propietario debe guardarla de modo que nadie tenga acceso a ella.
+La clave p'ublica se puede entregar a cualquier persona y es la que permanece en el servidor, la otra clave es la clave privada y es deber del propietario guardarla de modo que nadie tenga acceso a ella.
 
 \subsection{Generaci'on de par de claves SSH en sistemas UNIX}
-Un par de llaves SSH puede ser generado ejecuando el comando \textit{ssh-keygen} dentro de la terminal, el cual por defecto usa seguridad 2048-bit RSA, luego de presionado se pedir'a que se indique un nombre de archivo como asi tambi'en la ruta, si se deja vac'io el mismo se guardar'a en la ruta \textit{/home/usuario/.ssh/} con el nombre \textit{id\_rsa} (clave privada) e \textit{id\_rsa.pub} (clave p'ublica), como se puede observar en las im'agenes {\color{blue}\ref{fig:1}} y {\color{blue}\ref{fig:2}}.
+Un par de llaves SSH puede ser generado ejecuando el comando \textit{ssh-keygen} dentro de la terminal, el cual por defecto usa seguridad 2048-bit RSA, luego de presionado la tecla "Enter" se pedir'a que se indique un nombre de archivo como asi tambi'en la ruta, si se deja vac'io el mismo se guardar'a por defecto en la ruta \textit{/home/usuario/.ssh/} con el nombre \textit{id\_rsa} (clave privada) e \textit{id\_rsa.pub} (clave p'ublica), como se puede observar en las im'agenes {\color{blue}\ref{fig:1}} y {\color{blue}\ref{fig:2}}.
 
 \begin{figure}[ht]
   \includegraphics[width=\columnwidth]{./ssh_intro_imgs/A}

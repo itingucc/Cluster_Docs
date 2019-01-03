@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.20)  26 DEC 2018 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.1.2)  2 JAN 2019 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -341,7 +341,7 @@ Package pdftex.def Info: ./ssh_intro_imgs/D.png  used on input line 67.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./ssh_intro_imgs/A.png> <./ssh_intro_imgs/B.png> <./ssh_intro_imgs/C.png>]
-<./ssh_intro_imgs/E.png, id=18, 1104.125pt x 451.6875pt>
+<./ssh_intro_imgs/E.png, id=19, 1104.125pt x 451.6875pt>
 File: ./ssh_intro_imgs/E.png Graphic file (type png)
 <use ./ssh_intro_imgs/E.png>
 Package pdftex.def Info: ./ssh_intro_imgs/E.png  used on input line 82.
@@ -351,18 +351,18 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 7050 strings out of 492639
- 108537 string characters out of 6135496
- 467249 words of memory out of 5000000
- 10844 multiletter control sequences out of 15000+600000
- 43155 words of font info for 36 fonts, out of 8000000 for 9000
+ 7058 strings out of 492639
+ 108634 string characters out of 6135498
+ 467272 words of memory out of 5000000
+ 10851 multiletter control sequences out of 15000+600000
+ 46143 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,8n,51p,9088b,1146s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on ssh_intro.pdf (3 pages, 325423 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on ssh_intro.pdf (3 pages, 343048 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

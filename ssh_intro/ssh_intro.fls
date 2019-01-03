@@ -1,4 +1,4 @@
-PWD /home/operador/Facunava/Cluster/Documentacion_Cluster
+PWD /run/media/fnavarro/Data/Facunava/Cluster_Docs/ssh_intro
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT ssh_intro.tex
@@ -116,6 +116,7 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
 INPUT ./ssh_intro_imgs/A.png
 INPUT ./ssh_intro_imgs/A.png
 OUTPUT ssh_intro.pdf
@@ -146,6 +147,7 @@ INPUT /usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
